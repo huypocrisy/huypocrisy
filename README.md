@@ -1,5 +1,5 @@
 - 👋 Hi, I'm VÕ THANH HUY, but you can call me Huy.
-
+![namecard](https://github.com/huypocrisy/Thuc_hanh_NLP/blob/main/card%20huy%20thanh%20vo.png)
 👀 I'm interested in data analytics, ML, and AI.
 🌱 Currently, I'm learning AI to apply in my field of environmental engineering.
 💞️ I'm looking to collaborate with colleagues in the same field and with similar interests.
