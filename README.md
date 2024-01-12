@@ -1,6 +1,4 @@
 Welcome to my page! 
-![namecard](https://github.com/huypocrisy/Thuc_hanh_NLP/blob/main/namecard.png)
-
 👀 I'm interested in data analytics, ML, and AI.
 🌱 Currently, I'm learning AI to apply in my field of environmental engineering.
 
